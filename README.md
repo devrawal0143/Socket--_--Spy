@@ -1,7 +1,7 @@
-# Socket-_-Spy
+# Socket(-_-)Spy
 Python based Fast Port Scanner
 
-Certainly, here's an expanded description for my **Socket-_-Spy** Python-based fast port scanner project:
+Certainly, here's an expanded description for my **(Socket-_-)Spy** Python-based fast port scanner project:
 
 **Description:**
 <p>
