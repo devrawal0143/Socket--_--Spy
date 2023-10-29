@@ -26,3 +26,20 @@ In this project, I conceptualized and developed a robust Python-based fast port 
 <li>Optimized for speed with a 0.5-second timeout, ensuring rapid port scanning without sacrificing accuracy in identifying open ports.</li>
 <li>Goes beyond port identification by grabbing service information, providing valuable insights into target system configurations and aiding vulnerability assessment.</li>
 </ol>
+
+# Installation
+
+
+
+**Debian-Linux:**
+
+```
+$ sudo apt-get update
+```
+```
+$ sudo apt-get install python3.6
+```
+```
+$ git clone https://github.com/devrawal0143/Socket-_-Spy/
+```
+
