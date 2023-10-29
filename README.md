@@ -31,7 +31,7 @@ In this project, I conceptualized and developed a robust Python-based fast port 
 
 
 
-**Debian-Linux:**
+**Debian-based distribution:**
 
 ```
 $ sudo apt-get update
